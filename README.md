@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darobarbaroja
+- 👋 Hi, I’m Sánchez Darío Alias @Darobarbaroja
 - 👀Full stack developer
 - 🌱 I’m currently learning Programación, desarrollo web.
 - 💞️ I’m looking to collaborate on ...
